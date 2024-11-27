@@ -9,7 +9,6 @@ describe('Ancestors Elements', () => {
     })
 })
 
-
 // describe('Ancestors Elements', () => {
 //     it('Select ancestor web element', () => {
 //       cy.visit('http://127.0.0.1:5500/parents.html');
